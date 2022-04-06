@@ -1,0 +1,8 @@
+Unhandled exception at 0x00007FF893464F69 in corefinement_polyhedron_union.exe: Microsoft C++ exception: CGAL::Assertion_exception at memory location 0x000000723C8FD3D0.
+
+---------- Message CMD ------
+CGAL error: assertion violation!
+Expression: oxz_pqr != COLLINEAR
+File:		C:\dev\vcpkg\installed\x64-windows\include\CGAL\predicates\kernel_ftC3.h
+Line:		190
+Explanation:	Refere to the bug-reporting instructions at https://www.cgal.org/bug_report.html
